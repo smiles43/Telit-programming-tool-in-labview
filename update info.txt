@@ -1,0 +1,4 @@
+v1.1 issues:
+I have only updated the Telit programmer 1.1
+and Telit prog-1.1, with additional error reporting.
+and hopefully stopping any hang ups.
